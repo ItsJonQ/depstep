@@ -1,6 +1,6 @@
 {
   "name": "depstep",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "A tiny deprecation utility for Javascript.",
   "main": "dist/depstep.js",
   "umd:main": "dist/depstep.umd.js",
