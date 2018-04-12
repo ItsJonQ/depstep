@@ -2,14 +2,17 @@
 
 > A tiny deprecation utility for Javascript
 
+* **Tiny** at less than 500B
+* **Zero** dependencies
 
-## Installation
+
+## 🔧 Installation
 
 ```
 npm install --save depstep
 ```
 
 
-## Usage
+## ⚡️ Usage
 
 Documentation coming soon!
