@@ -1,0 +1,21 @@
+{
+  "name": "depstep",
+  "version": "0.0.1",
+  "description": "A tiny deprecation Javascript utility.",
+  "main": "dist/depstep.js",
+  "umd:main": "dist/depstep.umd.js",
+  "module": "dist/depstep.m.js",
+  "source": "src/index.js",
+  "scripts": {
+    "build": "microbundle",
+    "dev": "jest --watchAll",
+    "start": "npm run dev",
+    "test": "jest"
+  },
+  "author": "Jon Quach <hello@jonquach.com> (https://jonquach.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "22.4.3",
+    "microbundle": "0.4.4"
+  }
+}
